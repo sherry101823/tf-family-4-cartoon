@@ -8,6 +8,7 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 *.tmp
+bak*/
 
 # Keep extracted assets in Git
 *.zip
